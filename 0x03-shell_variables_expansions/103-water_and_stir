@@ -1,1 +1,2 @@
-VimCrypt~03!I‰Ó¹ZLs¶¹ýàûE›q†ä¬ÀæN¯¹†7¼pãâºœá7Fv:DVªÉ3)*VUï²‹‹„ž[d
+#!/bin/bash
+echo $(($WATER+$STIR)) >bestchol
